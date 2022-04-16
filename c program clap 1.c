@@ -23,3 +23,6 @@ main ()
     }
   return 0;
 }
+/*Output :
+Give any three numbers: 78 86 90
+90 is greater than other numbers.*/
